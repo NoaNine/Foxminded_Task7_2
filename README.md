@@ -11,5 +11,6 @@ students, groups, lecture-rooms, schedule for students and schedule for teachers
 
 
 
+
 Result should be  added to the Gitlab repository as a png image.
 
